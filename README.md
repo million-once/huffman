@@ -1,2 +1,2 @@
 # huffman
-# huffman C语言大作业
+huffman C语言大作业
